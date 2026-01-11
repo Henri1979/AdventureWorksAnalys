@@ -1,5 +1,5 @@
 USE AdventureWorks
-
+GO
 
 
 SELECT * FROM Production.ProductCategory

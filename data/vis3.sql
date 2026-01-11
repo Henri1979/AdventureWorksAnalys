@@ -1,4 +1,5 @@
 USE AdventureWorks
+GO 
 
 SELECT * FROM Sales.SalesOrderHeader
 
